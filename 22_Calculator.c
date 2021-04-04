@@ -1,3 +1,4 @@
+//Author name Shivaditya Sharma
 #include<stdio.h>
 int main(){
     char operator;
