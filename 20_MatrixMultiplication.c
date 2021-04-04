@@ -1,4 +1,4 @@
-//© Ishav Verma 19/March/2021
+//Author name : Shivaditya Sharma
 #include <stdio.h>
 
 void getMatrixElements(int matrix[][10], int row, int column) {
@@ -14,7 +14,6 @@ void getMatrixElements(int matrix[][10], int row, int column) {
 }
 
 void multiplyMatrices(int first[][10],
-                      int second[][10],
                       int result[][10],
                       int r1, int c1, int r2, int c2) {
    //Multiplying matrices (Processing).
