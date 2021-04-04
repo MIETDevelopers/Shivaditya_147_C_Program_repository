@@ -1,3 +1,4 @@
+//Author name: Shivaditya Sharma
 // A C Program to check whether the entered number is Odd or Even.
 #include <stdio.h>
 int main() {
@@ -8,5 +9,5 @@ int main() {
         printf("%d is even.", num);
     else
         printf("%d is odd.", num);
-    return 0;
+    return 0;//Return statement
 }
