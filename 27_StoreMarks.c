@@ -1,3 +1,4 @@
+//Author name : Shivaditya Sharma
 //A C Program to store the information of student marks using structures and find total marks of individual student.
 #include <stdio.h>
 struct student {
