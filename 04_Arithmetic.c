@@ -1,5 +1,7 @@
-#include<stdio.h>
-int main(){
+//Author name:Shivaditya Sharma
+//Creation Date:29-03-2021
+#include<stdio.h>//Preprocessor directive to include input output function header file
+int main(){//Start of the main body function
     char operator;
     double a, b;
     printf("Enter an operator (+, -, *, /):"); //It will print the operater to be entered by user.
@@ -25,5 +27,5 @@ int main(){
             break;
     printf("Error encountered by the input values");
     }
-    return 0;
+    return 0;//Return statement
 }
